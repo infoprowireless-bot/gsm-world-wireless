@@ -1,0 +1,1167 @@
+{
+  "hits": [
+    {
+      "id": "iphone-15-pro",
+      "handle": "iphone-15-pro",
+      "title": "Apple iPhone 15 Pro",
+      "vendor": "Apple",
+      "descriptionHtml": "iPhone 15 Pro with A17 Pro chip, ProMotion, and USB‑C.",
+      "totalReviews": 42,
+      "avgRating": 4.9,
+      "reviewsSummary": "Blazing fast and lighter titanium design.",
+      "priceRange": {
+        "maxVariantPrice": { "amount": "1299.00", "currencyCode": "USD" },
+        "minVariantPrice": { "amount": "999.00", "currencyCode": "USD" }
+      },
+      "featuredImage": {
+        "url": "/product-images/iphone_15.jpg",
+        "altText": "iPhone 15 Pro",
+        "width": 1024,
+        "height": 1024
+      },
+      "minPrice": 999,
+      "variants": [
+        {
+          "id": "iphone-15-pro-natural-128",
+          "title": "Natural Titanium / 128GB",
+          "quantityAvailable": 25,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Color", "value": "Natural Titanium" },
+            { "name": "Storage", "value": "128GB" }
+          ],
+          "price": { "amount": "999.00", "currencyCode": "USD" }
+        },
+        {
+          "id": "iphone-15-pro-blue-256",
+          "title": "Blue Titanium / 256GB",
+          "quantityAvailable": 14,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Color", "value": "Blue Titanium" },
+            { "name": "Storage", "value": "256GB" }
+          ],
+          "price": { "amount": "1099.00", "currencyCode": "USD" }
+        }
+      ],
+      "images": [
+        { "url": "/product-images/iphone_15.jpg", "altText": "iPhone 15 Pro", "width": 1024, "height": 1024 }
+      ],
+      "collections": [ { "handle": "cell-phones", "title": "Cell Phones" } ]
+    },
+    {
+      "id": "iphone-15-pro-max",
+      "handle": "iphone-15-pro-max",
+      "title": "Apple iPhone 15 Pro Max",
+      "vendor": "Apple",
+      "descriptionHtml": "Largest iPhone with A17 Pro and 5x Telephoto.",
+      "totalReviews": 30,
+      "avgRating": 4.9,
+      "reviewsSummary": "Top-tier camera and battery life.",
+      "priceRange": {
+        "maxVariantPrice": { "amount": "1399.00", "currencyCode": "USD" },
+        "minVariantPrice": { "amount": "1199.00", "currencyCode": "USD" }
+      },
+      "featuredImage": {
+        "url": "/product-images/iphone_15.jpg",
+        "altText": "iPhone 15 Pro Max",
+        "width": 1024,
+        "height": 1024
+      },
+      "minPrice": 1199,
+      "variants": [
+        {
+          "id": "iphone-15-pro-max-black-256",
+          "title": "Black Titanium / 256GB",
+          "quantityAvailable": 18,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Color", "value": "Black Titanium" },
+            { "name": "Storage", "value": "256GB" }
+          ],
+          "price": { "amount": "1199.00", "currencyCode": "USD" }
+        }
+      ],
+      "images": [
+        { "url": "/product-images/iphone_15.jpg", "altText": "iPhone 15 Pro Max", "width": 1024, "height": 1024 }
+      ],
+      "collections": [ { "handle": "cell-phones", "title": "Cell Phones" } ]
+    },
+    {
+      "id": "iphone-15",
+      "handle": "iphone-15",
+      "title": "Apple iPhone 15",
+      "vendor": "Apple",
+      "descriptionHtml": "iPhone 15 with Dynamic Island and USB‑C.",
+      "totalReviews": 21,
+      "avgRating": 4.7,
+      "reviewsSummary": "Great all‑rounder.",
+      "priceRange": {
+        "maxVariantPrice": { "amount": "999.00", "currencyCode": "USD" },
+        "minVariantPrice": { "amount": "799.00", "currencyCode": "USD" }
+      },
+      "featuredImage": {
+        "url": "/product-images/iphone_15.jpg",
+        "altText": "iPhone 15",
+        "width": 1024,
+        "height": 1024
+      },
+      "minPrice": 799,
+      "variants": [
+        {
+          "id": "iphone-15-pink-128",
+          "title": "Pink / 128GB",
+          "quantityAvailable": 22,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Color", "value": "Pink" },
+            { "name": "Storage", "value": "128GB" }
+          ],
+          "price": { "amount": "799.00", "currencyCode": "USD" }
+        }
+      ],
+      "images": [
+        { "url": "/product-images/iphone_15.jpg", "altText": "iPhone 15", "width": 1024, "height": 1024 }
+      ],
+      "collections": [ { "handle": "cell-phones", "title": "Cell Phones" } ]
+    },
+    {
+      "id": "iphone-14",
+      "handle": "iphone-14",
+      "title": "Apple iPhone 14",
+      "vendor": "Apple",
+      "descriptionHtml": "iPhone 14 with A15 Bionic.",
+      "totalReviews": 18,
+      "avgRating": 4.6,
+      "reviewsSummary": "Reliable and solid value.",
+      "priceRange": {
+        "maxVariantPrice": { "amount": "899.00", "currencyCode": "USD" },
+        "minVariantPrice": { "amount": "699.00", "currencyCode": "USD" }
+      },
+      "featuredImage": {
+        "url": "/product-images/iphone_14.jpeg",
+        "altText": "iPhone 14",
+        "width": 1024,
+        "height": 1024
+      },
+      "minPrice": 699,
+      "variants": [
+        {
+          "id": "iphone-14-blue-128",
+          "title": "Blue / 128GB",
+          "quantityAvailable": 15,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Color", "value": "Blue" },
+            { "name": "Storage", "value": "128GB" }
+          ],
+          "price": { "amount": "699.00", "currencyCode": "USD" }
+        }
+      ],
+      "images": [
+        { "url": "/product-images/iphone_14.jpeg", "altText": "iPhone 14", "width": 1024, "height": 1024 }
+      ],
+      "collections": [ { "handle": "cell-phones", "title": "Cell Phones" } ]
+    },
+    {
+      "id": "iphone-13",
+      "handle": "iphone-13",
+      "title": "Apple iPhone 13",
+      "vendor": "Apple",
+      "descriptionHtml": "iPhone 13 with dual‑camera system.",
+      "totalReviews": 27,
+      "avgRating": 4.7,
+      "reviewsSummary": "Great battery and camera.",
+      "priceRange": {
+        "maxVariantPrice": { "amount": "799.00", "currencyCode": "USD" },
+        "minVariantPrice": { "amount": "599.00", "currencyCode": "USD" }
+      },
+      "featuredImage": {
+        "url": "/product-images/iphone_13.jpg",
+        "altText": "iPhone 13",
+        "width": 1024,
+        "height": 1024
+      },
+      "minPrice": 599,
+      "variants": [
+        {
+          "id": "iphone-13-midnight-128",
+          "title": "Midnight / 128GB",
+          "quantityAvailable": 12,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Color", "value": "Midnight" },
+            { "name": "Storage", "value": "128GB" }
+          ],
+          "price": { "amount": "599.00", "currencyCode": "USD" }
+        }
+      ],
+      "images": [
+        { "url": "/product-images/iphone_13.jpg", "altText": "iPhone 13", "width": 1024, "height": 1024 }
+      ],
+      "collections": [ { "handle": "cell-phones", "title": "Cell Phones" } ]
+    },
+    {
+      "id": "iphone-12",
+      "handle": "iphone-12",
+      "title": "Apple iPhone 12",
+      "vendor": "Apple",
+      "descriptionHtml": "iPhone 12 with A14 Bionic and 5G.",
+      "totalReviews": 32,
+      "avgRating": 4.5,
+      "reviewsSummary": "Excellent value iPhone.",
+      "priceRange": {
+        "maxVariantPrice": { "amount": "699.00", "currencyCode": "USD" },
+        "minVariantPrice": { "amount": "499.00", "currencyCode": "USD" }
+      },
+      "featuredImage": {
+        "url": "/product-images/iphone_12.jpg",
+        "altText": "iPhone 12",
+        "width": 1024,
+        "height": 1024
+      },
+      "minPrice": 499,
+      "variants": [
+        {
+          "id": "iphone-12-black-64",
+          "title": "Black / 64GB",
+          "quantityAvailable": 20,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Color", "value": "Black" },
+            { "name": "Storage", "value": "64GB" }
+          ],
+          "price": { "amount": "499.00", "currencyCode": "USD" }
+        }
+      ],
+      "images": [
+        { "url": "/product-images/iphone_12.jpg", "altText": "iPhone 12", "width": 1024, "height": 1024 }
+      ],
+      "collections": [ { "handle": "cell-phones", "title": "Cell Phones" } ]
+    },
+    {
+      "id": "galaxy-s24-ultra",
+      "handle": "galaxy-s24-ultra",
+      "title": "Samsung Galaxy S24 Ultra",
+      "vendor": "Samsung",
+      "descriptionHtml": "Flagship Galaxy with advanced camera and S Pen.",
+      "totalReviews": 25,
+      "avgRating": 4.8,
+      "reviewsSummary": "Outstanding display and zoom.",
+      "priceRange": {
+        "maxVariantPrice": { "amount": "1399.00", "currencyCode": "USD" },
+        "minVariantPrice": { "amount": "1299.00", "currencyCode": "USD" }
+      },
+      "featuredImage": {
+        "url": "/product-images/samsung_s24_ultra.jpg",
+        "altText": "Galaxy S24 Ultra",
+        "width": 1024,
+        "height": 1024
+      },
+      "minPrice": 1299,
+      "variants": [
+        {
+          "id": "s24u-titanium-256",
+          "title": "Titanium Gray / 256GB",
+          "quantityAvailable": 16,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Color", "value": "Titanium Gray" },
+            { "name": "Storage", "value": "256GB" }
+          ],
+          "price": { "amount": "1299.00", "currencyCode": "USD" }
+        }
+      ],
+      "images": [
+        { "url": "/product-images/samsung_s24_ultra.jpg", "altText": "Galaxy S24 Ultra", "width": 1024, "height": 1024 }
+      ],
+      "collections": [ { "handle": "cell-phones", "title": "Cell Phones" } ]
+    },
+    {
+      "id": "galaxy-s24",
+      "handle": "galaxy-s24",
+      "title": "Samsung Galaxy S24",
+      "vendor": "Samsung",
+      "descriptionHtml": "Latest Galaxy with powerful performance.",
+      "totalReviews": 19,
+      "avgRating": 4.6,
+      "reviewsSummary": "Fast with great screen.",
+      "priceRange": {
+        "maxVariantPrice": { "amount": "999.00", "currencyCode": "USD" },
+        "minVariantPrice": { "amount": "799.00", "currencyCode": "USD" }
+      },
+      "featuredImage": {
+        "url": "/product-images/samsung_s24_ultra.jpg",
+        "altText": "Galaxy S24",
+        "width": 1024,
+        "height": 1024
+      },
+      "minPrice": 799,
+      "variants": [
+        {
+          "id": "s24-black-128",
+          "title": "Black / 128GB",
+          "quantityAvailable": 20,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Color", "value": "Black" },
+            { "name": "Storage", "value": "128GB" }
+          ],
+          "price": { "amount": "799.00", "currencyCode": "USD" }
+        }
+      ],
+      "images": [
+        { "url": "/product-images/samsung_s24_ultra.jpg", "altText": "Galaxy S24", "width": 1024, "height": 1024 }
+      ],
+      "collections": [ { "handle": "cell-phones", "title": "Cell Phones" } ]
+    },
+    {
+      "id": "pixel-8",
+      "handle": "pixel-8",
+      "title": "Google Pixel 8",
+      "vendor": "Google",
+      "descriptionHtml": "Pixel 8 with Tensor G3 and excellent AI features.",
+      "totalReviews": 12,
+      "avgRating": 4.5,
+      "reviewsSummary": "Clean Android and great camera.",
+      "priceRange": {
+        "maxVariantPrice": { "amount": "799.00", "currencyCode": "USD" },
+        "minVariantPrice": { "amount": "699.00", "currencyCode": "USD" }
+      },
+      "featuredImage": {
+        "url": "https://images.unsplash.com/photo-1697714627069-3cb02a9f042b",
+        "altText": "Pixel 8",
+        "width": 1024,
+        "height": 1024
+      },
+      "minPrice": 699,
+      "variants": [
+        {
+          "id": "pixel-8-hazel-128",
+          "title": "Hazel / 128GB",
+          "quantityAvailable": 10,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Color", "value": "Hazel" },
+            { "name": "Storage", "value": "128GB" }
+          ],
+          "price": { "amount": "699.00", "currencyCode": "USD" }
+        }
+      ],
+      "images": [
+        { "url": "https://images.unsplash.com/photo-1697714627069-3cb02a9f042b", "altText": "Pixel 8", "width": 1024, "height": 1024 }
+      ],
+      "collections": [ { "handle": "cell-phones", "title": "Cell Phones" } ]
+    },
+    {
+      "id": "macbook-air-m3",
+      "handle": "macbook-air-m3",
+      "title": "MacBook Air 13-inch (M3)",
+      "vendor": "Apple",
+      "descriptionHtml": "Ultra‑portable MacBook Air with M3 chip.",
+      "totalReviews": 17,
+      "avgRating": 4.8,
+      "reviewsSummary": "Light, fast, and efficient.",
+      "priceRange": {
+        "maxVariantPrice": { "amount": "1499.00", "currencyCode": "USD" },
+        "minVariantPrice": { "amount": "1099.00", "currencyCode": "USD" }
+      },
+      "featuredImage": {
+        "url": "/product-images/macbook-air.jpeg",
+        "altText": "MacBook Air 13-inch M3",
+        "width": 1024,
+        "height": 1024
+      },
+      "minPrice": 1099,
+      "variants": [
+        {
+          "id": "mba-m3-8-256",
+          "title": "8‑core / 8GB / 256GB",
+          "quantityAvailable": 15,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Config", "value": "8‑core / 8GB / 256GB" }
+          ],
+          "price": { "amount": "1099.00", "currencyCode": "USD" }
+        }
+      ],
+      "images": [
+        { "url": "/product-images/macbook-air.jpeg", "altText": "MacBook Air 13-inch M3", "width": 1024, "height": 1024 }
+      ],
+      "collections": [ { "handle": "computers", "title": "Computers" } ]
+    },
+    {
+      "id": "macbook-pro-14-m3",
+      "handle": "macbook-pro-14-m3",
+      "title": "MacBook Pro 14-inch (M3)",
+      "vendor": "Apple",
+      "descriptionHtml": "Pro performance with M3 chip.",
+      "totalReviews": 9,
+      "avgRating": 4.9,
+      "reviewsSummary": "Fantastic display and performance.",
+      "priceRange": {
+        "maxVariantPrice": { "amount": "1999.00", "currencyCode": "USD" },
+        "minVariantPrice": { "amount": "1599.00", "currencyCode": "USD" }
+      },
+      "featuredImage": {
+        "url": "/product-images/macbook-pro.jpg",
+        "altText": "MacBook Pro 14-inch M3",
+        "width": 1024,
+        "height": 1024
+      },
+      "minPrice": 1599,
+      "variants": [
+        {
+          "id": "mbp14-m3-16-512",
+          "title": "10‑core / 16GB / 512GB",
+          "quantityAvailable": 8,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Config", "value": "10‑core / 16GB / 512GB" }
+          ],
+          "price": { "amount": "1999.00", "currencyCode": "USD" }
+        }
+      ],
+      "images": [
+        { "url": "/product-images/macbook-pro.jpg", "altText": "MacBook Pro 14-inch M3", "width": 1024, "height": 1024 }
+      ],
+      "collections": [ { "handle": "computers", "title": "Computers" } ]
+    },
+    {
+      "id": "airpods-pro-2",
+      "handle": "airpods-pro-2",
+      "title": "AirPods Pro (2nd generation)",
+      "vendor": "Apple",
+      "descriptionHtml": "Active Noise Cancellation with USB‑C.",
+      "totalReviews": 44,
+      "avgRating": 4.8,
+      "reviewsSummary": "Great sound and ANC.",
+      "priceRange": {
+        "maxVariantPrice": { "amount": "249.00", "currencyCode": "USD" },
+        "minVariantPrice": { "amount": "199.00", "currencyCode": "USD" }
+      },
+      "featuredImage": {
+        "url": "/product-images/air_pods_pro_2.jpeg",
+        "altText": "AirPods Pro 2",
+        "width": 1024,
+        "height": 1024
+      },
+      "minPrice": 199,
+      "variants": [
+        {
+          "id": "airpods-pro-2-usbc",
+          "title": "USB‑C Case",
+          "quantityAvailable": 30,
+          "availableForSale": true,
+          "selectedOptions": [ { "name": "Case", "value": "USB‑C" } ],
+          "price": { "amount": "249.00", "currencyCode": "USD" }
+        }
+      ],
+      "images": [
+        { "url": "/product-images/air_pods_pro_2.jpeg", "altText": "AirPods Pro 2", "width": 1024, "height": 1024 }
+      ],
+      "collections": [ { "handle": "accessories", "title": "Accessories" } ]
+    },
+    {
+      "id": "airpods-3",
+      "handle": "airpods-3",
+      "title": "AirPods (3rd generation)",
+      "vendor": "Apple",
+      "descriptionHtml": "Spatial audio with adaptive EQ.",
+      "totalReviews": 20,
+      "avgRating": 4.6,
+      "reviewsSummary": "Comfortable and good sound.",
+      "priceRange": {
+        "maxVariantPrice": { "amount": "179.00", "currencyCode": "USD" },
+        "minVariantPrice": { "amount": "159.00", "currencyCode": "USD" }
+      },
+      "featuredImage": {
+        "url": "/product-images/air_pods_4.jpeg",
+        "altText": "AirPods 3",
+        "width": 1024,
+        "height": 1024
+      },
+      "minPrice": 159,
+      "variants": [
+        {
+          "id": "airpods-3-magsafe",
+          "title": "MagSafe Case",
+          "quantityAvailable": 24,
+          "availableForSale": true,
+          "selectedOptions": [ { "name": "Case", "value": "MagSafe" } ],
+          "price": { "amount": "179.00", "currencyCode": "USD" }
+        }
+      ],
+      "images": [
+        { "url": "/product-images/air_pods_4.jpeg", "altText": "AirPods 3", "width": 1024, "height": 1024 }
+      ],
+      "collections": [ { "handle": "accessories", "title": "Accessories" } ]
+    },
+    {
+      "id": "magsafe-charger",
+      "handle": "magsafe-charger",
+      "title": "Apple MagSafe Charger",
+      "vendor": "Apple",
+      "descriptionHtml": "Magnetic wireless charger for iPhone.",
+      "totalReviews": 11,
+      "avgRating": 4.5,
+      "reviewsSummary": "Convenient fast charging.",
+      "priceRange": {
+        "maxVariantPrice": { "amount": "49.00", "currencyCode": "USD" },
+        "minVariantPrice": { "amount": "39.00", "currencyCode": "USD" }
+      },
+      "featuredImage": {
+        "url": "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb",
+        "altText": "MagSafe Charger",
+        "width": 1024,
+        "height": 1024
+      },
+      "minPrice": 39,
+      "variants": [
+        {
+          "id": "magsafe-standard",
+          "title": "Standard",
+          "quantityAvailable": 40,
+          "availableForSale": true,
+          "selectedOptions": [ { "name": "Version", "value": "Standard" } ],
+          "price": { "amount": "49.00", "currencyCode": "USD" }
+        }
+      ],
+      "images": [
+        { "url": "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb", "altText": "MagSafe Charger", "width": 1024, "height": 1024 }
+      ],
+      "collections": [ { "handle": "accessories", "title": "Accessories" } ]
+    },
+    {
+      "id": "iphone-16-pro-max",
+      "handle": "iphone-16-pro-max",
+      "title": "Apple iPhone 16 Pro Max",
+      "vendor": "Apple",
+      "descriptionHtml": "iPhone 16 Pro Max with A18 Pro chip, titanium design, and advanced camera system.",
+      "totalReviews": 28,
+      "avgRating": 4.8,
+      "reviewsSummary": "Largest iPhone with incredible camera and performance.",
+      "priceRange": {
+        "maxVariantPrice": { "amount": "1599.00", "currencyCode": "USD" },
+        "minVariantPrice": { "amount": "1199.00", "currencyCode": "USD" }
+      },
+      "featuredImage": {
+        "url": "/product-images/iphone_16.jpg",
+        "altText": "iPhone 16 Pro Max",
+        "width": 1024,
+        "height": 1024
+      },
+      "minPrice": 1199,
+      "variants": [
+        {
+          "id": "iphone-16-pro-max-black-256",
+          "title": "Black Titanium / 256GB",
+          "quantityAvailable": 18,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Color", "value": "Black Titanium" },
+            { "name": "Storage", "value": "256GB" }
+          ],
+          "price": { "amount": "1199.00", "currencyCode": "USD" }
+        },
+        {
+          "id": "iphone-16-pro-max-white-512",
+          "title": "White Titanium / 512GB",
+          "quantityAvailable": 12,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Color", "value": "White Titanium" },
+            { "name": "Storage", "value": "512GB" }
+          ],
+          "price": { "amount": "1399.00", "currencyCode": "USD" }
+        }
+      ],
+      "images": [
+        { "url": "/product-images/iphone_16.jpg", "altText": "iPhone 16 Pro Max", "width": 1024, "height": 1024 }
+      ],
+      "collections": [ { "handle": "cell-phones", "title": "Cell Phones" } ]
+    },
+    {
+      "id": "iphone-16-pro",
+      "handle": "iphone-16-pro",
+      "title": "Apple iPhone 16 Pro",
+      "vendor": "Apple",
+      "descriptionHtml": "iPhone 16 Pro with A18 Pro chip, titanium design, and advanced camera system.",
+      "totalReviews": 35,
+      "avgRating": 4.9,
+      "reviewsSummary": "Perfect size with pro features and titanium build.",
+      "priceRange": {
+        "maxVariantPrice": { "amount": "1399.00", "currencyCode": "USD" },
+        "minVariantPrice": { "amount": "1099.00", "currencyCode": "USD" }
+      },
+      "featuredImage": {
+        "url": "/product-images/iphone_16.jpg",
+        "altText": "iPhone 16 Pro",
+        "width": 1024,
+        "height": 1024
+      },
+      "minPrice": 1099,
+      "variants": [
+        {
+          "id": "iphone-16-pro-black-128",
+          "title": "Black Titanium / 128GB",
+          "quantityAvailable": 22,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Color", "value": "Black Titanium" },
+            { "name": "Storage", "value": "128GB" }
+          ],
+          "price": { "amount": "1099.00", "currencyCode": "USD" }
+        },
+        {
+          "id": "iphone-16-pro-blue-256",
+          "title": "Blue Titanium / 256GB",
+          "quantityAvailable": 15,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Color", "value": "Blue Titanium" },
+            { "name": "Storage", "value": "256GB" }
+          ],
+          "price": { "amount": "1199.00", "currencyCode": "USD" }
+        }
+      ],
+      "images": [
+        { "url": "/product-images/iphone_16.jpg", "altText": "iPhone 16 Pro", "width": 1024, "height": 1024 }
+      ],
+      "collections": [ { "handle": "cell-phones", "title": "Cell Phones" } ]
+    },
+    {
+      "id": "iphone-16",
+      "handle": "iphone-16",
+      "title": "Apple iPhone 16",
+      "vendor": "Apple",
+      "descriptionHtml": "iPhone 16 with A18 chip, advanced camera system, and all-day battery life.",
+      "totalReviews": 42,
+      "avgRating": 4.7,
+      "reviewsSummary": "Great value with all the essential features.",
+      "priceRange": {
+        "maxVariantPrice": { "amount": "1099.00", "currencyCode": "USD" },
+        "minVariantPrice": { "amount": "899.00", "currencyCode": "USD" }
+      },
+      "featuredImage": {
+        "url": "/product-images/iphone_16.jpg",
+        "altText": "iPhone 16",
+        "width": 1024,
+        "height": 1024
+      },
+      "minPrice": 899,
+      "variants": [
+        {
+          "id": "iphone-16-black-128",
+          "title": "Black / 128GB",
+          "quantityAvailable": 28,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Color", "value": "Black" },
+            { "name": "Storage", "value": "128GB" }
+          ],
+          "price": { "amount": "899.00", "currencyCode": "USD" }
+        },
+        {
+          "id": "iphone-16-blue-256",
+          "title": "Blue / 256GB",
+          "quantityAvailable": 20,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Color", "value": "Blue" },
+            { "name": "Storage", "value": "256GB" }
+          ],
+          "price": { "amount": "999.00", "currencyCode": "USD" }
+        }
+      ],
+      "images": [
+        { "url": "/product-images/iphone_16.jpg", "altText": "iPhone 16", "width": 1024, "height": 1024 }
+      ],
+      "collections": [ { "handle": "cell-phones", "title": "Cell Phones" } ]
+    },
+    {
+      "id": "macbook-air-m3",
+      "handle": "macbook-air-m3",
+      "title": "Apple MacBook Air 13-inch M3",
+      "vendor": "Apple",
+      "descriptionHtml": "MacBook Air 13-inch with M3 chip, up to 18 hours battery life, and Liquid Retina display.",
+      "totalReviews": 89,
+      "avgRating": 4.8,
+      "reviewsSummary": "Incredible performance in an ultra-thin design.",
+      "priceRange": {
+        "maxVariantPrice": { "amount": "1599.00", "currencyCode": "USD" },
+        "minVariantPrice": { "amount": "1099.00", "currencyCode": "USD" }
+      },
+      "featuredImage": {
+        "url": "/product-images/macbook-air.jpeg",
+        "altText": "MacBook Air 13-inch M3",
+        "width": 1024,
+        "height": 1024
+      },
+      "minPrice": 1099,
+      "variants": [
+        {
+          "id": "macbook-air-m3-8gb-256gb",
+          "title": "8GB RAM / 256GB SSD",
+          "quantityAvailable": 15,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Memory", "value": "8GB" },
+            { "name": "Storage", "value": "256GB SSD" }
+          ],
+          "price": { "amount": "1099.00", "currencyCode": "USD" }
+        },
+        {
+          "id": "macbook-air-m3-8gb-512gb",
+          "title": "8GB RAM / 512GB SSD",
+          "quantityAvailable": 12,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Memory", "value": "8GB" },
+            { "name": "Storage", "value": "512GB SSD" }
+          ],
+          "price": { "amount": "1299.00", "currencyCode": "USD" }
+        }
+      ],
+      "images": [
+        { "url": "/product-images/macbook-air.jpeg", "altText": "MacBook Air 13-inch M3", "width": 1024, "height": 1024 }
+      ],
+      "collections": [ { "handle": "laptops", "title": "Laptops" }, { "handle": "computers", "title": "Computers" } ]
+    },
+    {
+      "id": "macbook-air-m2",
+      "handle": "macbook-air-m2",
+      "title": "Apple MacBook Air 13-inch M2",
+      "vendor": "Apple",
+      "descriptionHtml": "MacBook Air 13-inch with M2 chip, all-day battery life, and stunning Liquid Retina display.",
+      "totalReviews": 124,
+      "avgRating": 4.7,
+      "reviewsSummary": "Perfect balance of power and portability.",
+      "priceRange": {
+        "maxVariantPrice": { "amount": "1399.00", "currencyCode": "USD" },
+        "minVariantPrice": { "amount": "999.00", "currencyCode": "USD" }
+      },
+      "featuredImage": {
+        "url": "/product-images/macbook-air.jpeg",
+        "altText": "MacBook Air 13-inch M2",
+        "width": 1024,
+        "height": 1024
+      },
+      "minPrice": 999,
+      "variants": [
+        {
+          "id": "macbook-air-m2-8gb-256gb",
+          "title": "8GB RAM / 256GB SSD",
+          "quantityAvailable": 18,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Memory", "value": "8GB" },
+            { "name": "Storage", "value": "256GB SSD" }
+          ],
+          "price": { "amount": "999.00", "currencyCode": "USD" }
+        },
+        {
+          "id": "macbook-air-m2-8gb-512gb",
+          "title": "8GB RAM / 512GB SSD",
+          "quantityAvailable": 14,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Memory", "value": "8GB" },
+            { "name": "Storage", "value": "512GB SSD" }
+          ],
+          "price": { "amount": "1199.00", "currencyCode": "USD" }
+        }
+      ],
+      "images": [
+        { "url": "/product-images/macbook-air.jpeg", "altText": "MacBook Air 13-inch M2", "width": 1024, "height": 1024 }
+      ],
+      "collections": [ { "handle": "laptops", "title": "Laptops" }, { "handle": "computers", "title": "Computers" } ]
+    },
+    {
+      "id": "macbook-pro-14-m3",
+      "handle": "macbook-pro-14-m3",
+      "title": "Apple MacBook Pro 14-inch M3",
+      "vendor": "Apple",
+      "descriptionHtml": "MacBook Pro 14-inch with M3 chip, Liquid Retina XDR display, and professional-grade performance.",
+      "totalReviews": 67,
+      "avgRating": 4.9,
+      "reviewsSummary": "The ultimate laptop for creative professionals.",
+      "priceRange": {
+        "maxVariantPrice": { "amount": "2299.00", "currencyCode": "USD" },
+        "minVariantPrice": { "amount": "1799.00", "currencyCode": "USD" }
+      },
+      "featuredImage": {
+        "url": "/product-images/macbook_pro.jpg",
+        "altText": "MacBook Pro 14-inch M3",
+        "width": 1024,
+        "height": 1024
+      },
+      "minPrice": 1799,
+      "variants": [
+        {
+          "id": "macbook-pro-14-m3-16gb-512gb",
+          "title": "16GB RAM / 512GB SSD",
+          "quantityAvailable": 8,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Memory", "value": "16GB" },
+            { "name": "Storage", "value": "512GB SSD" }
+          ],
+          "price": { "amount": "1799.00", "currencyCode": "USD" }
+        },
+        {
+          "id": "macbook-pro-14-m3-24gb-1tb",
+          "title": "24GB RAM / 1TB SSD",
+          "quantityAvailable": 5,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Memory", "value": "24GB" },
+            { "name": "Storage", "value": "1TB SSD" }
+          ],
+          "price": { "amount": "2199.00", "currencyCode": "USD" }
+        }
+      ],
+      "images": [
+        { "url": "/product-images/macbook_pro.jpg", "altText": "MacBook Pro 14-inch M3", "width": 1024, "height": 1024 }
+      ],
+      "collections": [ { "handle": "laptops", "title": "Laptops" }, { "handle": "computers", "title": "Computers" } ]
+    },
+    {
+      "id": "macbook-pro-16-m3",
+      "handle": "macbook-pro-16-m3",
+      "title": "Apple MacBook Pro 16-inch M3",
+      "vendor": "Apple",
+      "descriptionHtml": "MacBook Pro 16-inch with M3 chip, Liquid Retina XDR display, and maximum performance.",
+      "totalReviews": 43,
+      "avgRating": 4.9,
+      "reviewsSummary": "The most powerful MacBook Pro ever created.",
+      "priceRange": {
+        "maxVariantPrice": { "amount": "2999.00", "currencyCode": "USD" },
+        "minVariantPrice": { "amount": "2299.00", "currencyCode": "USD" }
+      },
+      "featuredImage": {
+        "url": "/product-images/macbook_pro.jpg",
+        "altText": "MacBook Pro 16-inch M3",
+        "width": 1024,
+        "height": 1024
+      },
+      "minPrice": 2299,
+      "variants": [
+        {
+          "id": "macbook-pro-16-m3-24gb-512gb",
+          "title": "24GB RAM / 512GB SSD",
+          "quantityAvailable": 6,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Memory", "value": "24GB" },
+            { "name": "Storage", "value": "512GB SSD" }
+          ],
+          "price": { "amount": "2299.00", "currencyCode": "USD" }
+        },
+        {
+          "id": "macbook-pro-16-m3-32gb-1tb",
+          "title": "32GB RAM / 1TB SSD",
+          "quantityAvailable": 4,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Memory", "value": "32GB" },
+            { "name": "Storage", "value": "1TB SSD" }
+          ],
+          "price": { "amount": "2799.00", "currencyCode": "USD" }
+        }
+      ],
+      "images": [
+        { "url": "/product-images/macbook_pro.jpg", "altText": "MacBook Pro 16-inch M3", "width": 1024, "height": 1024 }
+      ],
+      "collections": [ { "handle": "laptops", "title": "Laptops" }, { "handle": "computers", "title": "Computers" } ]
+    },
+    {
+      "id": "imac-24-m3",
+      "handle": "imac-24-m3",
+      "title": "Apple iMac 24-inch M3",
+      "vendor": "Apple",
+      "descriptionHtml": "iMac 24-inch with M3 chip, stunning Retina display, and all-in-one design.",
+      "totalReviews": 56,
+      "avgRating": 4.8,
+      "reviewsSummary": "Beautiful all-in-one desktop with incredible performance.",
+      "priceRange": {
+        "maxVariantPrice": { "amount": "1799.00", "currencyCode": "USD" },
+        "minVariantPrice": { "amount": "1299.00", "currencyCode": "USD" }
+      },
+      "featuredImage": {
+        "url": "/product-images/iMac.jpeg",
+        "altText": "iMac 24-inch M3",
+        "width": 1024,
+        "height": 1024
+      },
+      "minPrice": 1299,
+      "variants": [
+        {
+          "id": "imac-24-m3-8gb-256gb",
+          "title": "8GB RAM / 256GB SSD",
+          "quantityAvailable": 10,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Memory", "value": "8GB" },
+            { "name": "Storage", "value": "256GB SSD" }
+          ],
+          "price": { "amount": "1299.00", "currencyCode": "USD" }
+        },
+        {
+          "id": "imac-24-m3-16gb-512gb",
+          "title": "16GB RAM / 512GB SSD",
+          "quantityAvailable": 7,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Memory", "value": "16GB" },
+            { "name": "Storage", "value": "512GB SSD" }
+          ],
+          "price": { "amount": "1599.00", "currencyCode": "USD" }
+        }
+      ],
+      "images": [
+        { "url": "/product-images/iMac.jpeg", "altText": "iMac 24-inch M3", "width": 1024, "height": 1024 }
+      ],
+      "collections": [ { "handle": "desktops", "title": "Computers" }, { "handle": "computers", "title": "Computers" } ]
+    },
+    {
+      "id": "mac-mini-m2",
+      "handle": "mac-mini-m2",
+      "title": "Apple Mac Mini M4",
+      "vendor": "Apple",
+      "descriptionHtml": "Mac Mini with M2 chip, compact design, and powerful performance in a tiny package.",
+      "totalReviews": 78,
+      "avgRating": 4.7,
+      "reviewsSummary": "Compact power for any setup.",
+      "priceRange": {
+        "maxVariantPrice": { "amount": "799.00", "currencyCode": "USD" },
+        "minVariantPrice": { "amount": "599.00", "currencyCode": "USD" }
+      },
+      "featuredImage": {
+        "url": "/product-images/mac-mini.jpeg",
+        "altText": "Mac Mini M2",
+        "width": 1024,
+        "height": 1024
+      },
+      "minPrice": 599,
+      "variants": [
+        {
+          "id": "mac-mini-m2-8gb-256gb",
+          "title": "8GB RAM / 256GB SSD",
+          "quantityAvailable": 20,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Memory", "value": "8GB" },
+            { "name": "Storage", "value": "256GB SSD" }
+          ],
+          "price": { "amount": "599.00", "currencyCode": "USD" }
+        },
+        {
+          "id": "mac-mini-m2-16gb-512gb",
+          "title": "16GB RAM / 512GB SSD",
+          "quantityAvailable": 12,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Memory", "value": "16GB" },
+            { "name": "Storage", "value": "512GB SSD" }
+          ],
+          "price": { "amount": "799.00", "currencyCode": "USD" }
+        }
+      ],
+      "images": [
+        { "url": "/product-images/mac-mini.jpeg", "altText": "Mac Mini M2", "width": 1024, "height": 1024 }
+      ],
+      "collections": [ { "handle": "desktops", "title": "Computers" }, { "handle": "computers", "title": "Computers" } ]
+    },
+    {
+      "id": "ipad-pro-12-9-m4",
+      "handle": "ipad-pro-12-9-m4",
+      "title": "Apple iPad Pro 12.9-inch M4",
+      "vendor": "Apple",
+      "descriptionHtml": "iPad Pro 12.9-inch with M4 chip, Liquid Retina XDR display, and Apple Pencil Pro support.",
+      "totalReviews": 92,
+      "avgRating": 4.8,
+      "reviewsSummary": "The most advanced iPad ever created.",
+      "priceRange": {
+        "maxVariantPrice": { "amount": "1499.00", "currencyCode": "USD" },
+        "minVariantPrice": { "amount": "1099.00", "currencyCode": "USD" }
+      },
+      "featuredImage": {
+        "url": "/product-images/ipad_pro_m4.jpg",
+        "altText": "iPad Pro 12.9-inch M4",
+        "width": 1024,
+        "height": 1024
+      },
+      "minPrice": 1099,
+      "variants": [
+        {
+          "id": "ipad-pro-12-9-m4-256gb",
+          "title": "256GB Storage",
+          "quantityAvailable": 15,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Storage", "value": "256GB" }
+          ],
+          "price": { "amount": "1099.00", "currencyCode": "USD" }
+        },
+        {
+          "id": "ipad-pro-12-9-m4-512gb",
+          "title": "512GB Storage",
+          "quantityAvailable": 10,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Storage", "value": "512GB" }
+          ],
+          "price": { "amount": "1299.00", "currencyCode": "USD" }
+        }
+      ],
+      "images": [
+        { "url": "/product-images/ipad_pro_m4.jpg", "altText": "iPad Pro 12.9-inch M4", "width": 1024, "height": 1024 }
+      ],
+      "collections": [ { "handle": "tablets", "title": "Tablets" }, { "handle": "computers", "title": "Computers" } ]
+    },
+    {
+      "id": "ipad-10-9-m2",
+      "handle": "ipad-10-9-m2",
+      "title": "Apple iPad 10.9-inch M2",
+      "vendor": "Apple",
+      "descriptionHtml": "iPad 10.9-inch with M2 chip, Liquid Retina display, and all-day battery life.",
+      "totalReviews": 134,
+      "avgRating": 4.7,
+      "reviewsSummary": "Perfect tablet for work and creativity.",
+      "priceRange": {
+        "maxVariantPrice": { "amount": "699.00", "currencyCode": "USD" },
+        "minVariantPrice": { "amount": "499.00", "currencyCode": "USD" }
+      },
+      "featuredImage": {
+        "url": "/product-images/ipad-base.jpg",
+        "altText": "iPad 10.9-inch M2",
+        "width": 1024,
+        "height": 1024
+      },
+      "minPrice": 499,
+      "variants": [
+        {
+          "id": "ipad-10-9-m2-64gb",
+          "title": "64GB Storage",
+          "quantityAvailable": 25,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Storage", "value": "64GB" }
+          ],
+          "price": { "amount": "499.00", "currencyCode": "USD" }
+        },
+        {
+          "id": "ipad-10-9-m2-256gb",
+          "title": "256GB Storage",
+          "quantityAvailable": 18,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Storage", "value": "256GB" }
+          ],
+          "price": { "amount": "649.00", "currencyCode": "USD" }
+        }
+      ],
+      "images": [
+        { "url": "/product-images/ipad-base.jpg", "altText": "iPad 10.9-inch M2", "width": 1024, "height": 1024 }
+      ],
+      "collections": [ { "handle": "tablets", "title": "Tablets" }, { "handle": "computers", "title": "Computers" } ]
+    },
+    {
+      "id": "samsung-galaxy-tab-s9",
+      "handle": "samsung-galaxy-tab-s9",
+      "title": "Samsung Galaxy Tab S9 11-inch",
+      "vendor": "Samsung",
+      "descriptionHtml": "Galaxy Tab S9 11-inch with Snapdragon 8 Gen 2, S Pen included, and IP68 water resistance.",
+      "totalReviews": 67,
+      "avgRating": 4.6,
+      "reviewsSummary": "Powerful Android tablet with premium features.",
+      "priceRange": {
+        "maxVariantPrice": { "amount": "899.00", "currencyCode": "USD" },
+        "minVariantPrice": { "amount": "699.00", "currencyCode": "USD" }
+      },
+      "featuredImage": {
+        "url": "/product-images/samsung-tablet-s10-plus.jpg",
+        "altText": "Samsung Galaxy Tab S9",
+        "width": 1024,
+        "height": 1024
+      },
+      "minPrice": 699,
+      "variants": [
+        {
+          "id": "samsung-tab-s9-128gb",
+          "title": "128GB Storage",
+          "quantityAvailable": 14,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Storage", "value": "128GB" }
+          ],
+          "price": { "amount": "699.00", "currencyCode": "USD" }
+        },
+        {
+          "id": "samsung-tab-s9-256gb",
+          "title": "256GB Storage",
+          "quantityAvailable": 10,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Storage", "value": "256GB" }
+          ],
+          "price": { "amount": "799.00", "currencyCode": "USD" }
+        }
+      ],
+      "images": [
+        { "url": "/product-images/samsung-tablet-s10-plus.jpg", "altText": "Samsung Galaxy Tab S9", "width": 1024, "height": 1024 }
+      ],
+      "collections": [ { "handle": "tablets", "title": "Tablets" }, { "handle": "computers", "title": "Computers" } ]
+    },
+    {
+      "id": "samsung-galaxy-tab-s8",
+      "handle": "samsung-galaxy-tab-s8",
+      "title": "Samsung Galaxy Tab S8 11-inch",
+      "vendor": "Samsung",
+      "descriptionHtml": "Galaxy Tab S8 11-inch with Snapdragon 8 Gen 1, S Pen included, and premium build quality.",
+      "totalReviews": 89,
+      "avgRating": 4.5,
+      "reviewsSummary": "Excellent Android tablet with great performance.",
+      "priceRange": {
+        "maxVariantPrice": { "amount": "699.00", "currencyCode": "USD" },
+        "minVariantPrice": { "amount": "499.00", "currencyCode": "USD" }
+      },
+      "featuredImage": {
+        "url": "/product-images/samsung-tablet-s10-plus.jpg",
+        "altText": "Samsung Galaxy Tab S8",
+        "width": 1024,
+        "height": 1024
+      },
+      "minPrice": 499,
+      "variants": [
+        {
+          "id": "samsung-tab-s8-128gb",
+          "title": "128GB Storage",
+          "quantityAvailable": 16,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Storage", "value": "128GB" }
+          ],
+          "price": { "amount": "499.00", "currencyCode": "USD" }
+        },
+        {
+          "id": "samsung-tab-s8-256gb",
+          "title": "256GB Storage",
+          "quantityAvailable": 12,
+          "availableForSale": true,
+          "selectedOptions": [
+            { "name": "Storage", "value": "256GB" }
+          ],
+          "price": { "amount": "599.00", "currencyCode": "USD" }
+        }
+      ],
+      "images": [
+        { "url": "/product-images/samsung-tablet-s10-plus.jpg", "altText": "Samsung Galaxy Tab S8", "width": 1024, "height": 1024 }
+      ],
+      "collections": [ { "handle": "tablets", "title": "Tablets" }, { "handle": "computers", "title": "Computers" } ]
+    }
+  ]
+}
+
+

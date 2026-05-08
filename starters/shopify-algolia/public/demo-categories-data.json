@@ -1,0 +1,42 @@
+[
+  {
+    "id": "gid://shopify/Collection/100000001",
+    "handle": "cell-phones",
+    "title": "Cell Phones",
+    "descriptionHtml": "Latest iPhones, Androids, and more.",
+    "seo": { "description": null, "title": null },
+    "image": null,
+    "updatedAt": "2025-01-01T00:00:00Z",
+    "description": "Latest iPhones, Androids, and more."
+  },
+  {
+    "id": "gid://shopify/Collection/100000002",
+    "handle": "computers",
+    "title": "Computers",
+    "descriptionHtml": "MacBooks and more.",
+    "seo": { "description": null, "title": null },
+    "image": null,
+    "updatedAt": "2025-01-01T00:00:00Z",
+    "description": "MacBooks and more."
+  },
+  {
+    "id": "gid://shopify/Collection/100000003",
+    "handle": "accessories",
+    "title": "Accessories",
+    "descriptionHtml": "AirPods, chargers, cables, and wearables.",
+    "seo": { "description": null, "title": null },
+    "image": null,
+    "updatedAt": "2025-01-01T00:00:00Z",
+    "description": "AirPods, chargers, cables, and wearables."
+  },
+  {
+    "id": "gid://shopify/Collection/100000004",
+    "handle": "about",
+    "title": "About",
+    "descriptionHtml": "About GSM World USA — Cypress, CA.",
+    "seo": { "description": null, "title": null },
+    "image": null,
+    "updatedAt": "2025-01-01T00:00:00Z",
+    "description": "About GSM World USA — Cypress, CA."
+  }
+]
