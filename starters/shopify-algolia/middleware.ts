@@ -135,7 +135,11 @@ function handlePLPMiddleware(request: NextRequest) {
 }
 
 export const config = {
-  unstable_allowDynamic: ["**/node_modules/lodash/lodash.js", "**/node_modules/reflect-metadata/Reflect.js"],
+  unstable_allowDynamic: [
+    "**/node_modules/lodash/lodash.js",
+    "**/node_modules/reflect-metadata/Reflect.js",
+    "**/node_modules/bloom-filters/**",
+  ],
   matcher: ["/", "/((?!api|_next|cache-healthcheck|health|_vercel|.*\\..*).*)"],
 }
 
